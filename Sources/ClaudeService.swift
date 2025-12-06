@@ -8,8 +8,8 @@
 import Foundation
 
 class ClaudeService {
-    private static let apiKey = "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"
-    private static let apiURL = "https://api.anthropic.com/v1/messages"
+    private static let apiKey = "FILL"
+    private static let apiURL = "FILL"
     
     // Configure URLSession with proper settings
     private static let urlSession: URLSession = {
